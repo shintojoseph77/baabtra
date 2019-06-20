@@ -1,0 +1,18 @@
+body{
+	font-size: 12px;
+	font-weight: 400;
+	color: #333;
+	background: rgb(237, 240, 245);
+	font-family: Tahoma;
+}
+.headbg{ background:#3b5998; padding-bottom: 10px; }
+.headbg label{color: #fff; font-weight: 400; }
+.headbg span{color: #fff; font-weight: 400;}
+.loginbtn { margin-top:22px; }
+.middle{padding: 50px;}
+.subtitle{ font-weight: bold; }
+.textbox{ height: 30px; padding: 5px; margin-bottom: 10px; }
+.left{ width:30%; float: left; }
+.right{width: 70%; float: left; text-align: left; margin-top: 10px; }
+.agree { padding-top: 10px; padding-bottom: 10px; font-size: 10px; }
+.inputs1{ height: 35px; }
